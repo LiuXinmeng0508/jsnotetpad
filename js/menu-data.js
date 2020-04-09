@@ -52,6 +52,6 @@ np.menuData = [
       }
     ],
     width: '156px',
-    left: '106px'
+    left: '15px'
   },
 ];
